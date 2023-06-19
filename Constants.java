@@ -13,9 +13,9 @@ public class Constants
 	public static final String XPATH="xpath";
 	public static final String TAGNAME="tagname";
 	public static final String LINK_TEXT="linkText";
-	public static final String PARTICAL_LINK_TEXT="particalLinkText";
-	public static final String CLASS_NAME="className";
-	public static final String CSS_SELECTOR="css_selector";
+	public static final String PARTICAL_LINK_TEXT="particalLinkText";// not use
+	public static final String CLASS_NAME="className";//// not use
+	public static final String CSS_SELECTOR="css_selector";// not use
 	
 	public static final String CHROME="chrome";
 	public static final String FIREFOX="firefox";
